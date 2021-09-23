@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @robertKegel! Welcome to my GitHub repository!
 
 - 👀 I’m interested in web development, specifically the MERN stack.  MongoDB, Express, React and Node.
-- 🌱 I’m currently learning Shopify Development.  
+- 🌱 I’m currently learning Shopify Theme Development.  
 - 💞️ I’m looking to collaborate on any front-end or back-end development that I can contribute to.
-- 📫 How to reach me:  kegel.robert@gmail.com
+- 📫 How to reach me:  robert@iamrobertkegel.com  
 
 <!---
 robertKegel/robertKegel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
